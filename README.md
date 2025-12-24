@@ -26,14 +26,15 @@ This project analyzes my personal streaming history across **All Platforms (Desk
 
 ### 3. Key Discrepancy (Desktop vs. Mobile)
 *The song **"Caution"** (Work Mode) ranks high globally but vanishes on mobile. Conversely, **"Concerning Hobbits"** (Sleep Mode) appears only on mobile.*
-![Track Comparison]
+
+# Track Comparison  
+![Track Comparison]  
 ![Top 5 Tracks {All Plateforms}]
 
-<img width="667" height="489" alt="Screenshot 2025-12-24 162040" src="https://github.com/user-attachments/assets/33dd7e44-b9a1-4ccd-85b7-5e1aaa1581f7" />
-
-![Top 5 Tracks {Only Android}]
-
-<img width="503" height="361" alt="Screenshot 2025-12-24 161957" src="https://github.com/user-attachments/assets/24f82080-95f9-4add-a128-16d86dda6524" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/33dd7e44-b9a1-4ccd-85b7-5e1aaa1581f7" width="45%" />
+  <img src="https://github.com/user-attachments/assets/24f82080-95f9-4add-a128-16d86dda6524" width="45%" />
+</p>
 
 ---
 
