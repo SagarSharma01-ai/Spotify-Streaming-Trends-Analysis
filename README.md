@@ -77,6 +77,7 @@ Based on the Year-over-Year decline in volume (Tracks down 11.49%):
 
 ---
 
-### 📩 Contact
-Linkedin: (https://www.linkedin.com/in/sagar-sharma-712ba4324/)
-Email : ssharma9663@gmail.com
+### 📩 Contact  
+Linkedin: https://www.linkedin.com/in/sagar-sharma-712ba4324/  
+Email: ssharma9663@gmail.com
+
