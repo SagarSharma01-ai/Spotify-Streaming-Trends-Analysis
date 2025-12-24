@@ -14,7 +14,7 @@ This project analyzes my personal streaming history across **All Platforms (Desk
 
 ## 📸 Dashboard Visuals
 
-### 1. Global Overview (All Platforms)
+### 1. Global Overview (All Platforms & Android Only)
 *Dominated by Classic Rock (The Beatles) & High Energy Desktop Tracks.*
 
 
