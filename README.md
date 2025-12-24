@@ -18,22 +18,22 @@ This project analyzes my personal streaming history across **All Platforms (Desk
 *Dominated by Classic Rock (The Beatles) & High Energy Desktop Tracks.*
 
 
-#[Global Dashboard] <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/e38af819-9b2d-47cc-8aed-65ec151880cf" />
+# [Global Dashboard] <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/e38af819-9b2d-47cc-8aed-65ec151880cf" />
 
 
 ### 2. Mobile-Only Overview (Android)
 *93% of listening happens here. Note the shift in "Top Tracks" compared to Global.*
 
 
-#[Android Dashboard] <img width="1239" height="826" alt="image" src="https://github.com/user-attachments/assets/f1943f90-6653-41bd-9503-1ec9da7e11c6" />
+# [Android Dashboard] <img width="1239" height="826" alt="image" src="https://github.com/user-attachments/assets/f1943f90-6653-41bd-9503-1ec9da7e11c6" />
 
 
 ### 3. Key Discrepancy (Desktop vs. Mobile)
 *The song **"Caution"** (Work Mode) ranks high globally but vanishes on mobile. Conversely, **"Concerning Hobbits"** (Sleep Mode) appears only on mobile.*
 
 # Track Comparison  
-# [Track Comparison]  
-# [Top 5 Tracks {All Plateforms}]
+ 
+# Top 5 Tracks {All Plateforms}
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33dd7e44-b9a1-4ccd-85b7-5e1aaa1581f7" width="45%" />
