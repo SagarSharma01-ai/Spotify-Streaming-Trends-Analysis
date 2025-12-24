@@ -1,6 +1,6 @@
 # 🎵 Spotify Streaming Trends Analysis (Cross-Platform)
 
-![Spotify Banner](<img width="1600" height="517" alt="Spotify_Logo_Final" src="https://github.com/user-attachments/assets/c2fe3321-8c96-4ce4-ba21-4a28f835b391" />)
+(<img width="1600" height="517" alt="Spotify_Logo_Final" src="https://github.com/user-attachments/assets/c2fe3321-8c96-4ce4-ba21-4a28f835b391" />)
 
 ### 📄 [View Full Analysis Report (PDF)](Spotify%20Streaming%20Analysis%20Report.pdf)
 
