@@ -4,7 +4,7 @@
 
 ### 📄 [View Full Analysis Report (PDF)](Spotify%20Streaming%20Analysis%20Report.pdf)
 
-![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-yellow) ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
+[![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-yellow)](Spotify%20Analysis.pdf) [![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)](Spotify%20Analysis%20Android.pdf)
 
 ---
 
