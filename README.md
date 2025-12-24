@@ -2,7 +2,7 @@
 
 <img width="1600" height="517" alt="Spotify_Logo_Final" src="https://github.com/user-attachments/assets/c2fe3321-8c96-4ce4-ba21-4a28f835b391" />
 
-### 📄 [View Full Analysis Report (PDF)](Spotify%20Streaming%20Analysis%20Report.pdf)
+### 📜 [View Full Analysis Report (PDF)](Spotify%20Streaming%20Analysis%20Report.pdf)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-yellow)](Spotify%20Analysis.pdf) [![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)](Spotify%20Analysis%20Android.pdf)
 
@@ -11,6 +11,29 @@
 ## 🎧 Project Objective
 Does your "Spotify Wrapped" tell the whole story?
 This project analyzes my personal streaming history across **All Platforms (Desktop, Web, iOS)** vs. **Android Only** to uncover behavioral discrepancies. The goal was to understand how "Device Choice" impacts "Music Choice."
+
+## 📸 Dashboard Visuals
+
+### 1. Global Overview (All Platforms)
+*Dominated by Classic Rock (The Beatles) & High Energy Desktop Tracks.*
+![Global Dashboard] <img width="1260" height="846" alt="image" src="https://github.com/user-attachments/assets/e38af819-9b2d-47cc-8aed-65ec151880cf" />
+
+
+### 2. Mobile-Only Overview (Android)
+*93% of listening happens here. Note the shift in "Top Tracks" compared to Global.*
+![Android Dashboard] <img width="1239" height="826" alt="image" src="https://github.com/user-attachments/assets/f1943f90-6653-41bd-9503-1ec9da7e11c6" />
+
+
+### 3. Key Discrepancy (Desktop vs. Mobile)
+*The song **"Caution"** (Work Mode) ranks high globally but vanishes on mobile. Conversely, **"Concerning Hobbits"** (Sleep Mode) appears only on mobile.*
+![Track Comparison]
+![Top 5 Tracks {All Plateforms}]
+
+<img width="667" height="489" alt="Screenshot 2025-12-24 162040" src="https://github.com/user-attachments/assets/33dd7e44-b9a1-4ccd-85b7-5e1aaa1581f7" />
+
+![Top 5 Tracks {Only Android}]
+
+<img width="503" height="361" alt="Screenshot 2025-12-24 161957" src="https://github.com/user-attachments/assets/24f82080-95f9-4add-a128-16d86dda6524" />
 
 ---
 
